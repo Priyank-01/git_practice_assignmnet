@@ -1,2 +1,2 @@
 # git_practice_assignmnet
-first github assignment.
+code for palindrome and prime number check.
